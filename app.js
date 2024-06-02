@@ -12,8 +12,8 @@ server.headersTimeout = 120 * 1000;
 const html = `
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Q1)Creating an EC2 instance on AWS
+  <head> 
+    <title>Q1)Creating an EC2 instance on AWS <br>
 
 1. Sign into AWS management Console after that
 2. once logged in, click on services at the top letf corner and selecting the EC2 from the list of services
