@@ -555,7 +555,7 @@ Q21)in lambda function I create one landba function and create dynamodb and in l
    
   <body>
     <section>
-Q1)Creating an EC2 instance on AWS
+Q1)Creating an EC2 instance on AWS <br>
 
 1. Sign into AWS management Console after that
 2. once logged in, click on services at the top letf corner and selecting the EC2 from the list of services
